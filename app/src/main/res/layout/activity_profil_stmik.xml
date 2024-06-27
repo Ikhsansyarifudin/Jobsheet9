@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PROFIL STMIK Widya Utama"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Program Studi"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="S1 Teknik Informatika"
+        android:textSize="18sp"
+        android:textColor="#0000FF"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="S1 Sistem Informasi"
+        android:textSize="18sp"
+        android:textColor="#0000FF"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="D3 Teknik Informatika"
+        android:textSize="18sp"
+        android:textColor="#0000FF"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="D3 Komputerisasi Akuntansi"
+        android:textSize="18sp"
+        android:textColor="#0000FF" />
+
+</LinearLayout>
